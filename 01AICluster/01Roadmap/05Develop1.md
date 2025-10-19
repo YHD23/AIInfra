@@ -8,11 +8,11 @@ Author by: 陈悦孜
 
 1. 奠基时代 1945~1970
 
-2. 通用架构 1971~1995
+2. 通用架构时代 1971~1995
 
-3. 云&大数据 1995~2020
+3. 互联网云计算时代 1995~2020
 
-4. 未来计算 2020~2030
+4. 未来计算时代 2020~2030
 
 ## 计算产业发展历程
 
@@ -204,4 +204,13 @@ S/360 这项 50 亿美元的投资，被证实是一项启动创新商业运作�
 
 ## 参考与引用
 
-XXXXXX
+- [ENIAC](https://zh.wikipedia.org/wiki/ENIAC)
+- [EDVAC](https://zh.wikipedia.org/wiki/EDVAC)
+- [CDC 6600](https://zh.wikipedia.org/wiki/CDC_6600)
+- [IBM设计推出S/360](https://www.ibm.com/history/system-360)
+- [PDP-8](https://en.wikipedia.org/wiki/PDP-8)
+- [贝尔定律](https://baike.baidu.com/item/%E8%B4%9D%E5%B0%94%E5%AE%9A%E5%BE%8B/6707108)
+- [Altair 8800](https://en.wikipedia.org/wiki/Altair_8800)
+- [IBM PC](https://zh.wikipedia.org/wiki/IBM_PC)
+- [Sun Microsystem提出网络即是计算机](https://en.wikipedia.org/wiki/The_Network_is_the_Computer)
+- [牧村定律](https://www.researchgate.net/publication/3743460_Parallelization_in_co-compilation_for_configurable_accelerators-a_hostaccelerator_partitioning_compilation_method)
